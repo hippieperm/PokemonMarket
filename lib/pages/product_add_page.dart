@@ -317,7 +317,7 @@ class _ProductAddPageState extends State<ProductAddPage> {
                     hintText: '상품 설명을 입력하세요',
                     isExpanded: true,
                   ),
-                  const SizedBox(height: 60),
+                  const SizedBox(height: 40),
                   _buildSubmitButton(),
                   const SizedBox(height: 60),
                 ],
